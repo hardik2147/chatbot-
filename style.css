@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Comic Sans MS';
+  font-family: "Comic Sans ms";
   background-color: #F0F2F5; /* Facebook-like light grey background */
   display: flex;
   justify-content: center;
@@ -34,7 +34,7 @@ body {
 #chat-header h1 {
   margin: 0;
   font-size: 22px;
-  font-family: 'Comic Sans MS', cursive;
+  font-family: "Comic Sans ms", cursive;
 }
 
 #chatbox {
@@ -61,7 +61,7 @@ body {
   border-radius: 20px;
   font-size: 16px;
   outline: none;
-  font-family: 'Comic Sans MS';
+  font-family: "Comic Sans ms";
 
 }
 
@@ -75,7 +75,7 @@ button {
   border-radius: 20px;
   cursor: pointer;
   transition: background 0.2s ease-in-out;
-  font-family: 'Comic Sans MS', cursive;
+  font-family: "Comic Sans ms", cursive;
 }
 
 button:hover {
@@ -109,5 +109,5 @@ button:hover {
   font-size: 12px;
   color: #65676B; /* Facebook-like grey for secondary text (timestamps) */
   margin-bottom: 4px;
-  font-family: 'Comic Sans MS';
+  font-family: "Comic Sans ms";
 }
