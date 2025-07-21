@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Comic Sans MS', cursive;
+  font-family: 'Comic Sans MS';
   background-color: #F0F2F5; /* Facebook-like light grey background */
   display: flex;
   justify-content: center;
